@@ -1,0 +1,18 @@
+h1	{color: #ff9999}
+
+h2	{color: #008080;}
+
+a	{color: red;}
+
+#nav	{
+	border: 5px dotted red;
+	margin: 10px 5px 15px 20px;
+	}
+
+#nav a {text-decoration: none}
+
+.recommended{
+		font-family: Verdana;
+		font-variant: small-caps;
+		word-spacing: 30px;
+	}
